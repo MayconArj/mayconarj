@@ -7,7 +7,7 @@
 
 - 🏫 Cursando **Ciência da Computação - UNICID (1/8)**
 
-- 👨‍💻 Todos os meus projetos estão disponíveis em [https://www.maycondouglas.com.br](www.maycondouglas.com.br)
+- 👨‍💻 Todos os meus projetos estão disponíveis em [https://www.maycondouglas.com.br](https://www.maycondouglas.com.br)
 
 - 📫 Contato **contato@maycondouglas.com.br**
 
