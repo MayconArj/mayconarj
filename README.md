@@ -1,15 +1,13 @@
 <h1 align="center">Olá 👋, Meu nome é Maycon</h1>
-<h3 align="center">Um brasileiro amante de tecnologia</h3>
+<h3 align="center">Um amante de tecnologia</h3>
 
-- 🌱 Atualmente estou me desenvolvendo nas linguagens **Python3 e C**
+- 🌱 Atualmente estou me desenvolvendo em JAVA , C , PHP e MYSQL**
 
-- 🤝 Procuro colaborar com projetos em **Python3**
+- 🏫 Cursando **Ciência da Computação - UNICID (3/8)**
 
-- 🏫 Cursando **Ciência da Computação - UNICID (1/8)**
+- 👨‍💻 Todos os meus projetos estão disponíveis em [https://www.maycondouglas.com.br](https://www.maycondouglas.com.br) (Suspenso)**
 
-- 👨‍💻 Todos os meus projetos estão disponíveis em [https://www.maycondouglas.com.br](https://www.maycondouglas.com.br)
-
-- 📫 Contato **contato@maycondouglas.com.br**
+- 📫 Contato **contato@maycondouglas.com.br** (Suspenso)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
