@@ -17,5 +17,4 @@
 <h3 align="left">Languages and Tools:</h3>
 <p>
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-  <a href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBMfj5kauONkYNIPrTC9dg8W89siqVj5kNDLV8m2hFVg&s" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBMfj5kauONkYNIPrTC9dg8W89siqVj5kNDLV8m2hFVg&s)" alt="c" width="40" height="40"/> </a>
 </p>
