@@ -3,7 +3,7 @@
 
 - 🌱 Atualmente estou me desenvolvendo em **C , Python e MYSQL**
 
-- 🏫 Cursando **Ciência da Computação - UNICID (5/8)**
+- 🏫 Cursando **Ciência da Computação - UNICID (6/8)**
 
 - 👨‍💻 Todos os meus projetos estão disponíveis em [https://www.maycondouglas.com.br](https://www.maycondouglas.com.br) **(Suspenso)**
 
