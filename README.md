@@ -1,9 +1,9 @@
 <h1 align="center">Olá 👋, Meu nome é Maycon</h1>
-<h3 align="center">Um amante de tecnologia</h3>
+<!-- <h3 align="center">Um amante de tecnologia</h3> -->
 
-- 🌱 Atualmente estou me desenvolvendo em **C , Python e MYSQL**
+<!--- 🌱 Atualmente estou me desenvolvendo em **C , Python e MYSQL**-->
 
-- 🏫 Cursando **Ciência da Computação - UNICID (6/8)**
+- 🏫 Cursando **Ciência da Computação - UNICID (8/8)**
 
 - 👨‍💻 Todos os meus projetos estão disponíveis em [https://www.maycondouglas.com.br](https://www.maycondouglas.com.br) **(Suspenso)**
 
